@@ -1,0 +1,963 @@
+[
+  {
+    "name": "Brady Berge",
+    "wins": 282,
+    "losses": 5,
+    "state": "1st 2017; 6th 2016; 1st 2015; 1st 2014; 3rd 2013; 1st 2012",
+    "years": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "classYear": 2017
+  },
+  {
+    "name": "Bennett Berge",
+    "wins": 241,
+    "losses": 25,
+    "state": "1st 2022; 1st 2021; 1st 2020; 1st 2019; 1st 2018",
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "classYear": 2022
+  },
+  {
+    "name": "Patrick Kennedy",
+    "wins": 223,
+    "losses": 20,
+    "state": "1st 2020; 1st 2019; 1st 2018; 1st 2017; 3rd 2016; 6th 2015",
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "classYear": 2020
+  },
+  {
+    "name": "Garrett Garness",
+    "wins": 221,
+    "losses": 35,
+    "state": "3rd 2011; 2nd 2010; 2nd 2009; SE 2008; 1st 2007",
+    "years": [
+      2008,
+      2009,
+      2011
+    ],
+    "classYear": 2011
+  },
+  {
+    "name": "Cole Glazier",
+    "wins": 219,
+    "losses": 39,
+    "state": "1st 2023; 2nd 2022; 3rd 2021; SE 2019",
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "classYear": 2023
+  },
+  {
+    "name": "Sam Stoll",
+    "wins": 206,
+    "losses": 23,
+    "state": "1st 2014; 1st 2013; 3rd 2012; 2nd 2011",
+    "years": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014
+    ],
+    "classYear": 2014
+  },
+  {
+    "name": "Broc Berge",
+    "wins": 199,
+    "losses": 49,
+    "state": "2nd 2013; 1st 2012; 1st 2011; 4th 2010",
+    "years": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013
+    ],
+    "classYear": 2013
+  },
+  {
+    "name": "Logan Vaughan",
+    "wins": 186,
+    "losses": 34,
+    "state": "2nd 2022; 2nd 2021; 3rd 2020; 4th 2019; 4th 2018",
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "classYear": 2022
+  },
+  {
+    "name": "Robby Horsman",
+    "wins": 175,
+    "losses": 61,
+    "state": "4th 2019; 3rd 2018; SE 2017; SE 2016",
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "classYear": 2019
+  },
+  {
+    "name": "Keaten Schorr",
+    "wins": 175,
+    "losses": 29,
+    "state": "1st 2017; 5th 2016; 1st 2015; 3rd 2014",
+    "years": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "classYear": 2017
+  },
+  {
+    "name": "Coltan Laganiere",
+    "wins": 173,
+    "losses": 39,
+    "state": "1st 2013; 1st 2012; SE 2011; 4th 2010",
+    "years": [
+      2010,
+      2011,
+      2012,
+      2013
+    ],
+    "classYear": 2013
+  },
+  {
+    "name": "Jonah Coleman",
+    "wins": 171,
+    "losses": 65,
+    "state": "3rd 2025; 5th 2024; SE 2023",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "classYear": 2026
+  },
+  {
+    "name": "Jason Rhoten",
+    "wins": 164,
+    "losses": 28,
+    "state": "1st 2002; 3rd 2001; SE 2000; SE 1999",
+    "years": [
+      1998,
+      1999,
+      2000,
+      2001,
+      2002
+    ],
+    "classYear": 2002
+  },
+  {
+    "name": "Isaac Haman",
+    "wins": 162,
+    "losses": 77,
+    "state": "5th 2017; 4th 2016",
+    "years": [
+      2016,
+      2017
+    ],
+    "classYear": 2017
+  },
+  {
+    "name": "Dominic Mann",
+    "wins": 160,
+    "losses": 61,
+    "state": "2nd 2024; SE 2023; SE 2022",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "classYear": 2024
+  },
+  {
+    "name": "Casey Johnson",
+    "wins": 155,
+    "losses": 59,
+    "state": "3rd 2010; 3rd 2009; SE 2008",
+    "years": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "classYear": 2010
+  },
+  {
+    "name": "Noah Ryan",
+    "wins": 151,
+    "losses": 37,
+    "state": "1st 2017; 1st 2016; 5th 2015",
+    "years": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ],
+    "classYear": 2017
+  },
+  {
+    "name": "Spencer Garness",
+    "wins": 151,
+    "losses": 50,
+    "state": "SE 2006; SE 2004",
+    "years": [
+      2004,
+      2005,
+      2006,
+      2007
+    ],
+    "classYear": 2007
+  },
+  {
+    "name": "Owen Friedrich",
+    "wins": 148,
+    "losses": 60,
+    "state": "4th 2025; 5th 2024",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "classYear": 2025
+  },
+  {
+    "name": "Joseph Kennedy",
+    "wins": 146,
+    "losses": 53,
+    "state": "3rd 2024; 2nd 2023; SE 2022",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "classYear": 2024
+  },
+  {
+    "name": "Colby Alberts",
+    "wins": 145,
+    "losses": 50,
+    "state": "1st 2005; 5th 2004; SE 2003",
+    "years": [
+      2000,
+      2002,
+      2003,
+      2004,
+      2005
+    ],
+    "classYear": 2005
+  },
+  {
+    "name": "Garsen Schorr",
+    "wins": 142,
+    "losses": 47,
+    "state": "2nd 2019; SE 2018; SE 2017",
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "classYear": 2019
+  },
+  {
+    "name": "Luke Swanson",
+    "wins": 142,
+    "losses": 42,
+    "state": "2nd 2024; 4th 2023; SE 2022",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "classYear": 2024
+  },
+  {
+    "name": "Kail Wynia",
+    "wins": 141,
+    "losses": 32,
+    "state": "3rd 2022; 3rd 2021; SE 2020",
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "classYear": 2022
+  },
+  {
+    "name": "Dane Head",
+    "wins": 140,
+    "losses": 32,
+    "state": "3rd 1988; 3rd 1987",
+    "years": [
+      1983,
+      1984,
+      1985,
+      1986,
+      1987,
+      1988
+    ],
+    "classYear": 1988
+  },
+  {
+    "name": "Broc Threinen",
+    "wins": 140,
+    "losses": 41,
+    "state": "SE 1995; SE 1994; 4th 1992",
+    "years": [
+      1990,
+      1992,
+      1993,
+      1994,
+      1995
+    ],
+    "classYear": 1995
+  },
+  {
+    "name": "Jared Johnson",
+    "wins": 139,
+    "losses": 33,
+    "state": "3rd 2018; 4th 2017; 5th 2016",
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "classYear": 2018
+  },
+  {
+    "name": "Kaden Lindquist",
+    "wins": 139,
+    "losses": 53,
+    "state": "5th 2026; 4th 2025; SE 2024; SE 2023;",
+    "years": [
+      2024,
+      2025,
+      2026,
+      2027
+    ],
+    "classYear": 2028
+  },
+  {
+    "name": "Nate Thomas",
+    "wins": 138,
+    "losses": 16,
+    "state": "1st 2013; 2nd 2011; 1st 2010",
+    "years": [
+      2010,
+      2011,
+      2012,
+      2013
+    ],
+    "classYear": 2013
+  },
+  {
+    "name": "Aiden Friedrich",
+    "wins": 135,
+    "losses": 58,
+    "state": "6th 2025",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "classYear": 2025
+  },
+  {
+    "name": "Corben Hansen",
+    "wins": 133,
+    "losses": 79,
+    "state": "3rd 2013; SE 2012; SE 2011",
+    "years": [
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013
+    ],
+    "classYear": 2013
+  },
+  {
+    "name": "Grant Parrish",
+    "wins": 132,
+    "losses": 42,
+    "state": "2nd 2019; 4th 2018; SE 2017; SE 2016",
+    "years": [
+      2018,
+      2019
+    ],
+    "classYear": 2019
+  },
+  {
+    "name": "Chad Morrow",
+    "wins": 129,
+    "losses": 20,
+    "state": "1st 1997; 3rd 1996",
+    "years": [
+      1994,
+      1995,
+      1996,
+      1997
+    ],
+    "classYear": 1997
+  },
+  {
+    "name": "Shelby Deno",
+    "wins": 128,
+    "losses": 62,
+    "state": "SE 2009; 5th 2008",
+    "years": [
+      2006,
+      2007,
+      2008,
+      2009
+    ],
+    "classYear": 2009
+  },
+  {
+    "name": "Donovan Sullivan",
+    "wins": 125,
+    "losses": 65,
+    "state": "SE 2010; 4th 2009; 3rd 2008",
+    "years": [
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "classYear": 2010
+  },
+  {
+    "name": "Ethan Shea",
+    "wins": 122,
+    "losses": 77,
+    "state": "3rd 2018",
+    "years": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "classYear": 2018
+  },
+  {
+    "name": "Brett Rasmussen",
+    "wins": 119,
+    "losses": 41,
+    "state": "3rd 1983",
+    "years": [
+      1979,
+      1980,
+      1981,
+      1982,
+      1983
+    ],
+    "classYear": 1983
+  },
+  {
+    "name": "Jason Cirksena",
+    "wins": 117,
+    "losses": 62,
+    "state": "5th 2010; 3rd 2009; SE 2008",
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "classYear": 2010
+  },
+  {
+    "name": "Giovanni Ruffo",
+    "wins": 114,
+    "losses": 50,
+    "state": "SE 2019; 4th 2018; 7th 2017",
+    "years": [
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "classYear": 2021
+  },
+  {
+    "name": "Darrin Allen",
+    "wins": 114,
+    "losses": 69,
+    "state": "",
+    "years": [
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012
+    ],
+    "classYear": 2012
+  },
+  {
+    "name": "Kyle Bailey",
+    "wins": 111,
+    "losses": 51,
+    "state": "1st 2005; 5th 2004",
+    "years": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005
+    ],
+    "classYear": 2005
+  },
+  {
+    "name": "Rex Ayshford",
+    "wins": 109,
+    "losses": 39,
+    "state": "SE 2024; 2nd 2026",
+    "years": [
+      2024,
+      2025,
+      2026,
+      2027
+    ],
+    "classYear": 2029
+  },
+  {
+    "name": "Alan Bailey",
+    "wins": 109,
+    "losses": 48,
+    "state": "5th 2005; 5th 2004",
+    "years": [
+      2001,
+      2002,
+      2004,
+      2005
+    ],
+    "classYear": 2005
+  },
+  {
+    "name": "Branden Schorr",
+    "wins": 109,
+    "losses": 49,
+    "state": "SE 2013; SE 2012; SE 2011",
+    "years": [
+      2011,
+      2012,
+      2013
+    ],
+    "classYear": 2013
+  },
+  {
+    "name": "Tony Morrow",
+    "wins": 108,
+    "losses": 21,
+    "state": "2nd 2011; SE 2010; 4th 2009",
+    "years": [
+      2006,
+      2009,
+      2010,
+      2011
+    ],
+    "classYear": 2011
+  },
+  {
+    "name": "Zach Screiber",
+    "wins": 108,
+    "losses": 60,
+    "state": "",
+    "years": [
+      2011
+    ],
+    "classYear": 2011
+  },
+  {
+    "name": "Andy Bigelow",
+    "wins": 108,
+    "losses": 71,
+    "state": "6th 2016; SE 2015",
+    "years": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ],
+    "classYear": 2016
+  },
+  {
+    "name": "Mark Gransee",
+    "wins": 107,
+    "losses": 36,
+    "state": "SE 2007; 6th 2006",
+    "years": [
+      2006,
+      2007
+    ],
+    "classYear": 2007
+  },
+  {
+    "name": "Jimmy Paulson",
+    "wins": 105,
+    "losses": 60,
+    "state": "5th 2018; SE 2017",
+    "years": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "classYear": 2018
+  },
+  {
+    "name": "Charlie Bradford",
+    "wins": 104,
+    "losses": 28,
+    "state": "2nd 1994",
+    "years": [
+      1990,
+      1991,
+      1992,
+      1993,
+      1994
+    ],
+    "classYear": 1994
+  },
+  {
+    "name": "Tanner Paulson",
+    "wins": 102,
+    "losses": 37,
+    "state": "SE 2020; SE 2018",
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "classYear": 2020
+  },
+  {
+    "name": "Jesse Stevensen",
+    "wins": 102,
+    "losses": 31,
+    "state": "5th 2000; SE 1997",
+    "years": [
+      2000
+    ],
+    "classYear": 2000
+  },
+  {
+    "name": "Mike Bradford",
+    "wins": 100,
+    "losses": 39,
+    "state": "3rd 1992; SE 1991",
+    "years": [
+      1968,
+      1969,
+      1988,
+      1990,
+      1991,
+      1992
+    ],
+    "classYear": 1992
+  },
+  {
+    "name": "Kalin Anderson",
+    "wins": 99,
+    "losses": 89,
+    "state": "5th 2026",
+    "years": [
+      2023,
+      2024,
+      2025,
+      2026,
+      2027
+    ],
+    "classYear": 2027
+  },
+  {
+    "name": "Dalton Andrist",
+    "wins": 89,
+    "losses": 26,
+    "state": "SE 2018",
+    "years": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "classYear": 2019
+  },
+  {
+    "name": "Brett Paulson",
+    "wins": 89,
+    "losses": 56,
+    "state": "SE 2018; SE 2017",
+    "years": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "classYear": 2018
+  },
+  {
+    "name": "Jacob Duitsman",
+    "wins": 87,
+    "losses": 58,
+    "state": "5th 2024",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "classYear": 2025
+  },
+  {
+    "name": "Broc Vaughan",
+    "wins": 84,
+    "losses": 30,
+    "state": "SE 2023",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "classYear": 2026
+  },
+  {
+    "name": "Owen Nelson",
+    "wins": 82,
+    "losses": 33,
+    "state": "SE 2025; SE 2024",
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "classYear": 2025
+  },
+  {
+    "name": "Matthew Harfmann",
+    "wins": 79,
+    "losses": 26,
+    "state": "SE 2019",
+    "years": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "classYear": 2019
+  },
+  {
+    "name": "Carlos Ruffo",
+    "wins": 78,
+    "losses": 13,
+    "state": "1st 2019; 1st 2018",
+    "years": [
+      2018,
+      2019,
+      2020
+    ],
+    "classYear": 2020
+  },
+  {
+    "name": "Keymoni Bent",
+    "wins": 72,
+    "losses": 56,
+    "state": "SE 2025",
+    "years": [
+      2023,
+      2024,
+      2025,
+      2026,
+      2027
+    ],
+    "classYear": 2028
+  },
+  {
+    "name": "Nic VanOort",
+    "wins": 72,
+    "losses": 45,
+    "state": "",
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "classYear": 2019
+  },
+  {
+    "name": "Anthony Moe-Tucker",
+    "wins": 71,
+    "losses": 32,
+    "state": "4th 2021; 6th 2020",
+    "years": [
+      2018,
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "classYear": 2022
+  },
+  {
+    "name": "Heath Parrish",
+    "wins": 65,
+    "losses": 25,
+    "state": "SE 2023",
+    "years": [
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "classYear": 2023
+  },
+  {
+    "name": "Parker Richards",
+    "wins": 65,
+    "losses": 33,
+    "state": "1st 2026",
+    "years": [
+      2023,
+      2024,
+      2025,
+      2026,
+      2027
+    ],
+    "classYear": 2027
+  },
+  {
+    "name": "Reed Parrish",
+    "wins": 59,
+    "losses": 16,
+    "state": "",
+    "years": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "classYear": 2022
+  },
+  {
+    "name": "Kasson Wynia",
+    "wins": 56,
+    "losses": 30,
+    "state": "SE 2024; SE 2026",
+    "years": [
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "classYear": 2026
+  },
+  {
+    "name": "Eli Richardson",
+    "wins": 54,
+    "losses": 22,
+    "state": "SE 2023",
+    "years": [
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "classYear": 2023
+  },
+  {
+    "name": "Jackson Kennedy",
+    "wins": 51,
+    "losses": 22,
+    "state": "SE 2020",
+    "years": [
+      2018,
+      2020,
+      2021,
+      2022
+    ],
+    "classYear": 2021
+  }
+]

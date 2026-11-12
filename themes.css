@@ -1,0 +1,5 @@
+/* Theme switcher bar, only on the theme preview pages */
+.theme-bar { display: flex; gap: 6px; align-items: center; justify-content: center; flex-wrap: wrap; padding: 8px 12px; background: #f2c94c; color: #10131a; font: 700 13px/1 "Public Sans", system-ui, sans-serif; }
+.theme-bar span { margin-right: 6px; letter-spacing: .08em; text-transform: uppercase; font-size: 11px; }
+.theme-bar a { color: #10131a; text-decoration: none; padding: 7px 11px; border: 1.5px solid #10131a; border-radius: 2px; }
+.theme-bar a[aria-current] { background: #10131a; color: #f2c94c; }

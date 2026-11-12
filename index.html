@@ -268,5 +268,19 @@
   });
   </script>
 
+
+  <script>
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('.bracket-link');
+    if (link) {
+      e.preventDefault();
+      var url = link.href;
+      var w = 900, h = 650;
+      var left = (screen.width - w) / 2;
+      var top = (screen.height - h) / 2;
+      window.open(url, 'bracketWindow', 'width=' + w + ',height=' + h + ',left=' + left + ',top=' + top + ',scrollbars=yes,resizable=yes');
+    }
+  });
+  </script>
 </body>
 </html>

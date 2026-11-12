@@ -228,7 +228,7 @@
   const wall = document.getElementById('season-wall');
   for (let y = 1956; y <= 2027; y++) {
     const a = document.createElement('a');
-    if ((y >= 2010 && y <= 2027) || y === 2002 || y === 2005) {
+    if (y >= 1956 && y <= 2027) {
       a.href = 'seasons/' + y + '.html';
     } else {
       a.href = '#';
